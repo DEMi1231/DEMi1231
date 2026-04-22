@@ -1,10 +1,14 @@
-# 💫 Sobre mi:
+# 👨‍💻 Sobre mí
 
-🚀 **Formación continua:** Estudiante de la Facultad de Ciencias Físicas y Matemáticas (FCFM), fortaleciendo mis conocimientos mediante proyectos de alto impacto.
-🌐 **Objetivo:** Crecer profesionalmente desarrollando soluciones escalables, como el marketplace DigitOnn, y dominar el ecosistema Full-Stack.
-🔍 **Mi especialidad:** Desarrollo multiplataforma con React Native y arquitectura de bases de datos, enfocándome en crear código limpio y eficiente.
+🔹 **Formación:** Estudiante de la Facultad de Ciencias Físicas y Matemáticas (FCFM), enfocado en la resolución de problemas complejos mediante código.
 
-# 💻 Tecnologías:
+⚡ **Proyectos:** Impulsando el desarrollo de **DigitOnn**, un marketplace digital diseñado para ser escalable y eficiente.
+
+🎯 **Meta:** Consolidarme como desarrollador Full-Stack, perfeccionando la creación de experiencias móviles fluidas y arquitecturas de datos robustas.
+
+---
+
+# 🛠️ Stack Tecnológico
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
